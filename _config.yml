@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "Fashion Literacy"
-description: "A Coming Soon Template"
+description: "A website on fashion education"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
