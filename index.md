@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Your Awesome Site"
-excerpt: "A Coming Soon Template"
+title: "Fashion Literacy"
+excerpt: "A web space for education on Fashion"
 ---
-# Website is coming soon
-Tell the users that your website is not active yet. Put the reason to subscribe for the notification in this paragraph. Tell them about their problems which you would like to solve. Don’t forget the final call to action.
+# We are revamping the Web site
+We regret to take the website down as based on feedback from well wishers and web site users we are revamping the website. We will start a mailing list to keep the users informed of the progress in the coming days. For any queries please write to us at *info at fashionliteracy dot com*. 
