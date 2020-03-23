@@ -1,30 +1,30 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
+title: "Fashion Literacy"
 description: "A Coming Soon Template"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
-author: 
+author: Fashion Literacy
 
 #Target date in UTC / GMT
 countdown:
   theme: red
   year: 2020
-  month: 1
+  month: 5
   day: 1
   hour: 0
   minute: 0
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Jitendra Singh
+  email: info@fashionliteracy.com
+  twitter: 
   google-plus:
-  instagramm:
+  instagramm: 
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
-  aboutlink:
+  aboutlink: 
     url:
     caption:
 
